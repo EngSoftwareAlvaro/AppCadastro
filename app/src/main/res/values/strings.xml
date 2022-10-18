@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">AppCadastro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="listar">Listar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="insira_o_numero_de_telefone_do_cliente">Insira o numero de telefone do Cliente</string>
+    <string name="salvar">Salvar</string>
+    <string name="insira_o_nome_do_cliente">Insira o nome do Cliente</string>
+    <string name="insira_a_marca_do_produto">Insira a marca do Produto</string>
+    <string name="insira_o_nome_do_produto">Insira o nome do Produto</string>
+    <string name="insira_a_quantidade_do_produto">Insira a quantidade do Produto</string>
+    <string name="insira_o_numero_de_telefone_do_fornecedor">Insira o numero de telefone do Fornecedor</string>
+    <string name="insira_o_nome_do_fornecedor">Insira o nome do Fornecedor</string>
+    <string name="cliente">Cliente</string>
+    <string name="produto">Produto</string>
+    <string name="fornecedor">Fornecedor</string>
+    <string name="sair">Sair</string>
 </resources>
